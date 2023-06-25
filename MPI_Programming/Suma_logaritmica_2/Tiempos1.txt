@@ -1,0 +1,316 @@
+Maestro-Esclavo
+n = 6500000
+
+[a2163031812@rlabred001 p2_2]$ python3 n_corridas.py
+
+Tiempo de la corrida 1 : 34.20424246788025
+
+
+
+Tiempo de la corrida 2 : 34.301939487457275
+
+
+
+Tiempo de la corrida 3 : 34.273555517196655
+
+
+
+Tiempo de la corrida 4 : 34.24737572669983
+
+
+
+Tiempo de la corrida 5 : 34.2992422580719
+
+
+
+Promedio de las 5 corridas para la versión secuencial: 34.26527109146118
+
+[a2163031812@rlabred001 p2_2]$ python3 n_corridasProcs.py
+
+Numero de procesos 2
+
+Tiempo de la corrida 1 : 17.998903274536133
+
+
+
+Tiempo de la corrida 2 : 18.024006843566895
+
+
+
+Tiempo de la corrida 3 : 18.01370334625244
+
+
+
+Tiempo de la corrida 4 : 18.0266854763031
+
+
+
+Tiempo de la corrida 5 : 18.032217979431152
+
+
+
+Promedio de las 5 corridas con 2 procesos: 18.019103384017946
+
+
+
+Numero de procesos 4
+
+Tiempo de la corrida 1 : 9.800699234008789
+
+
+	
+Tiempo de la corrida 2 : 9.816047430038452
+
+
+
+Tiempo de la corrida 3 : 9.837918043136597
+
+
+
+Tiempo de la corrida 4 : 9.788848876953125
+
+
+
+Tiempo de la corrida 5 : 9.802679300308228
+
+
+
+Promedio de las 5 corridas con 4 procesos: 9.809238576889038
+
+
+
+Numero de procesos 8
+
+Tiempo de la corrida 1 : 5.901017904281616
+
+
+
+Tiempo de la corrida 2 : 5.8691277503967285
+
+
+
+Tiempo de la corrida 3 : 5.8504369258880615
+
+
+
+Tiempo de la corrida 4 : 5.916219711303711
+
+
+
+Tiempo de la corrida 5 : 5.8259875774383545
+
+
+
+Promedio de las 5 corridas con 8 procesos: 5.872557973861694
+
+
+
+Numero de procesos 16
+
+Tiempo de la corrida 1 : 3.9392101764678955
+
+
+
+Tiempo de la corrida 2 : 3.8768036365509033
+
+
+
+Tiempo de la corrida 3 : 3.8759701251983643
+
+
+
+Tiempo de la corrida 4 : 3.9208896160125732
+
+
+
+Tiempo de la corrida 5 : 3.879620313644409
+
+
+
+Promedio de las 5 corridas con 16 procesos: 3.898498773574829
+
+
+
+Numero de procesos 32
+
+Tiempo de la corrida 1 : 2.9520323276519775
+
+
+
+Tiempo de la corrida 2 : 2.918379545211792
+
+
+
+Tiempo de la corrida 3 : 2.9163148403167725
+
+
+
+Tiempo de la corrida 4 : 2.938110589981079
+
+
+
+Tiempo de la corrida 5 : 2.9276561737060547
+
+
+
+Promedio de las 5 corridas con 32 procesos: 2.9304986953735352
+
+n = 18000000
+
+[a2163031812@rlabred001 p2_2]$ python3 n_corridas.py
+
+
+Tiempo de la corrida 1 : 94.77551102638245
+
+
+
+Tiempo de la corrida 2 : 94.76462030410767
+
+
+
+Tiempo de la corrida 3 : 94.75226473808289
+
+
+
+Tiempo de la corrida 4 : 94.69783544540405
+
+
+
+Tiempo de la corrida 5 : 94.77062201499939
+
+
+
+Promedio de las 5 corridas para la versión secuencial: 94.7521707057953
+
+
+[a2163031812@rlabred001 p2_2]$ python3 n_corridasProcs.py
+
+Numero de procesos 2
+
+Tiempo de la corrida 1 : 48.8641197681427
+
+
+
+Tiempo de la corrida 2 : 48.86217927932739
+
+
+
+Tiempo de la corrida 3 : 48.87925624847412
+
+
+
+Tiempo de la corrida 4 : 48.859442472457886
+
+
+
+Tiempo de la corrida 5 : 48.81864285469055
+
+
+
+Promedio de las 5 corridas con 2 procesos: 48.85672812461853
+
+
+
+Numero de procesos 4
+
+Tiempo de la corrida 1 : 25.63892102241516
+
+
+
+Tiempo de la corrida 2 : 25.767203092575073
+
+
+
+Tiempo de la corrida 3 : 25.655266761779785
+
+
+
+Tiempo de la corrida 4 : 25.70074152946472
+
+
+
+Tiempo de la corrida 5 : 25.63948678970337
+
+
+
+Promedio de las 5 corridas con 4 procesos: 25.680323839187622
+
+
+
+Numero de procesos 8
+
+Tiempo de la corrida 1 : 14.496215105056763
+
+
+
+Tiempo de la corrida 2 : 14.443198680877686
+
+
+
+Tiempo de la corrida 3 : 14.336739301681519
+
+
+
+Tiempo de la corrida 4 : 14.350112438201904
+
+
+
+Tiempo de la corrida 5 : 14.37871789932251
+
+
+
+Promedio de las 5 corridas con 8 procesos: 14.400996685028076
+
+
+
+Numero de procesos 16
+
+Tiempo de la corrida 1 : 8.81802749633789
+
+
+
+Tiempo de la corrida 2 : 9.791743993759155
+
+
+
+Tiempo de la corrida 3 : 8.860843896865845
+
+
+
+Tiempo de la corrida 4 : 8.832197427749634
+
+
+
+Tiempo de la corrida 5 : 9.063065767288208
+
+
+
+Promedio de las 5 corridas con 16 procesos: 9.073175716400147
+
+
+
+Numero de procesos 32
+
+
+Tiempo de la corrida 1 : 6.045537710189819
+
+
+
+Tiempo de la corrida 2 : 6.073940277099609
+
+
+
+Tiempo de la corrida 3 : 6.070587396621704
+
+
+
+Tiempo de la corrida 4 : 6.021867036819458
+
+
+
+Tiempo de la corrida 5 : 6.039133071899414
+
+
+
+Promedio de las 5 corridas con 32 procesos: 6.050213098526001
+

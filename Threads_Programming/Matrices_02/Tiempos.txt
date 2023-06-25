@@ -1,0 +1,175 @@
+Corridas:
+
+giovanny@ryoma:~> python3 n_corridas.py
+./multiMat
+
+Tiempo de la corrida 1 : 62.11405086517334
+
+
+./multiMat
+
+Tiempo de la corrida 2 : 62.13558912277222
+
+
+./multiMat
+
+Tiempo de la corrida 3 : 61.648648262023926
+
+
+./multiMat
+
+Tiempo de la corrida 4 : 62.00791597366333
+
+
+./multiMat
+
+Tiempo de la corrida 5 : 61.289979696273804
+
+
+
+Promedio de las 5 corridas para la versión secuencial: 61.83923678398132
+
+
+giovanny@ryoma:~> python3 n_corridasHilos.py
+./multiMatHilos 2
+
+Tiempo de la corrida 1 : 31.906462907791138
+
+
+./multiMatHilos 2
+
+Tiempo de la corrida 2 : 31.026026248931885
+
+
+./multiMatHilos 2
+
+Tiempo de la corrida 3 : 31.18987226486206
+
+
+./multiMatHilos 2
+
+Tiempo de la corrida 4 : 31.121509552001953
+
+
+./multiMatHilos 2
+
+Tiempo de la corrida 5 : 31.07417321205139
+
+
+
+Promedio de las 5 corridas con 2 hilos: 31.263608837127684
+
+
+./multiMatHilos 4
+
+Tiempo de la corrida 1 : 18.692522287368774
+
+
+./multiMatHilos 4
+
+Tiempo de la corrida 2 : 18.886895895004272
+
+
+./multiMatHilos 4
+
+Tiempo de la corrida 3 : 18.770560264587402
+
+
+./multiMatHilos 4
+
+Tiempo de la corrida 4 : 18.635837078094482
+
+
+./multiMatHilos 4
+
+Tiempo de la corrida 5 : 18.729947805404663
+
+
+
+Promedio de las 5 corridas con 4 hilos: 18.74315266609192
+
+./multiMatHilos 8
+
+Tiempo de la corrida 1 : 9.626753091812134
+
+
+./multiMatHilos 8
+
+Tiempo de la corrida 2 : 9.638076543807983
+
+
+./multiMatHilos 8
+
+Tiempo de la corrida 3 : 9.623922109603882
+
+
+./multiMatHilos 8
+
+Tiempo de la corrida 4 : 9.819029808044434
+
+
+./multiMatHilos 8
+
+Tiempo de la corrida 5 : 9.757588148117065
+
+
+
+Promedio de las 5 corridas con 8 hilos: 9.693073940277099
+
+
+./multiMatHilos 16
+
+Tiempo de la corrida 1 : 5.266238689422607
+
+
+./multiMatHilos 16
+
+Tiempo de la corrida 2 : 5.1629815101623535
+
+
+./multiMatHilos 16
+
+Tiempo de la corrida 3 : 5.314342737197876
+
+
+./multiMatHilos 16
+
+Tiempo de la corrida 4 : 5.179068565368652
+
+
+./multiMatHilos 16
+
+Tiempo de la corrida 5 : 5.180563688278198
+
+
+
+Promedio de las 5 corridas con 16 hilos: 5.220639038085937
+
+
+./multiMatHilos 32
+
+Tiempo de la corrida 1 : 4.887430429458618
+
+
+./multiMatHilos 32
+
+Tiempo de la corrida 2 : 5.066102027893066
+
+
+./multiMatHilos 32
+
+Tiempo de la corrida 3 : 4.960408687591553
+
+
+./multiMatHilos 32
+
+Tiempo de la corrida 4 : 5.00588059425354
+
+
+./multiMatHilos 32
+
+Tiempo de la corrida 5 : 5.028320074081421
+
+
+
+Promedio de las 5 corridas con 32 hilos: 4.9896283626556395

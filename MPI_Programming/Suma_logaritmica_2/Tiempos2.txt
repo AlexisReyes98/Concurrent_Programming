@@ -1,0 +1,267 @@
+Logritmica
+n = 6500000
+
+[a2163031812@rlabred001 p2_2]$ python3 n_corridasProcs.py
+
+Numero de procesos 2
+
+Tiempo de la corrida 1 : 17.276588201522827
+
+
+
+Tiempo de la corrida 2 : 17.2102530002594
+
+
+
+Tiempo de la corrida 3 : 17.262462854385376
+
+
+
+Tiempo de la corrida 4 : 17.221080541610718
+
+
+
+Tiempo de la corrida 5 : 17.255494356155396
+
+
+
+Promedio de las 5 corridas con 2 procesos: 17.245175790786742
+
+
+
+Numero de procesos 4
+
+Tiempo de la corrida 1 : 9.375710487365723
+
+
+
+Tiempo de la corrida 2 : 9.313606977462769
+
+
+
+Tiempo de la corrida 3 : 9.333219766616821
+
+
+
+Tiempo de la corrida 4 : 9.34131908416748
+
+
+
+Tiempo de la corrida 5 : 9.379520177841187
+
+
+
+Promedio de las 5 corridas con 4 procesos: 9.348675298690797
+
+
+
+Numero de procesos 8
+
+Tiempo de la corrida 1 : 5.7758941650390625
+
+
+
+Tiempo de la corrida 2 : 5.655801057815552
+
+
+
+Tiempo de la corrida 3 : 5.646528959274292
+
+
+
+Tiempo de la corrida 4 : 5.650098085403442
+
+
+
+Tiempo de la corrida 5 : 5.669186353683472
+
+
+
+Promedio de las 5 corridas con 8 procesos: 5.679501724243164
+
+
+
+Numero de procesos 16
+
+Tiempo de la corrida 1 : 3.8215200901031494
+
+
+
+Tiempo de la corrida 2 : 3.804767370223999
+
+
+
+Tiempo de la corrida 3 : 3.808871269226074
+
+
+
+Tiempo de la corrida 4 : 3.773616313934326
+
+
+
+Tiempo de la corrida 5 : 3.783456802368164
+
+
+
+Promedio de las 5 corridas con 16 procesos: 3.7984463691711428
+
+
+
+Numero de procesos 32
+
+Tiempo de la corrida 1 : 2.905635118484497
+
+
+
+Tiempo de la corrida 2 : 2.9313302040100098
+
+
+
+Tiempo de la corrida 3 : 2.843956232070923
+
+
+
+Tiempo de la corrida 4 : 2.919603109359741
+
+
+
+Tiempo de la corrida 5 : 2.9004104137420654
+
+
+
+Promedio de las 5 corridas con 32 procesos: 2.9001870155334473
+
+n = 18000000
+
+[a2163031812@rlabred001 p2_2]$ python3 n_corridasProcs.py
+
+Numero de procesos 2
+
+
+Tiempo de la corrida 1 : 46.572224378585815
+
+
+
+Tiempo de la corrida 2 : 46.562215089797974
+
+
+
+Tiempo de la corrida 3 : 46.57358527183533
+
+
+
+Tiempo de la corrida 4 : 46.504409313201904
+
+
+
+Tiempo de la corrida 5 : 46.535926818847656
+
+
+
+Promedio de las 5 corridas con 2 procesos: 46.54967217445373
+
+
+
+Numero de procesos 4
+
+Tiempo de la corrida 1 : 24.36725378036499
+
+
+
+Tiempo de la corrida 2 : 24.3983416557312
+
+
+
+Tiempo de la corrida 3 : 24.3863582611084
+
+
+
+Tiempo de la corrida 4 : 24.36419439315796
+
+
+
+Tiempo de la corrida 5 : 24.410630464553833
+
+
+
+Promedio de las 5 corridas con 4 procesos: 24.385355710983276
+
+
+
+Numero de procesos 8
+
+Tiempo de la corrida 1 : 13.794082880020142
+
+
+
+Tiempo de la corrida 2 : 13.788220405578613
+
+
+
+Tiempo de la corrida 3 : 13.774255752563477
+
+
+
+Tiempo de la corrida 4 : 13.812652111053467
+
+
+
+Tiempo de la corrida 5 : 13.718317747116089
+
+
+
+Promedio de las 5 corridas con 8 procesos: 13.777505779266358
+
+
+
+Numero de procesos 16
+
+Tiempo de la corrida 1 : 8.469698190689087
+
+
+
+Tiempo de la corrida 2 : 8.467796325683594
+
+
+
+Tiempo de la corrida 3 : 8.506497859954834
+
+
+
+Tiempo de la corrida 4 : 8.434222221374512
+
+
+
+Tiempo de la corrida 5 : 8.497429132461548
+
+
+
+Promedio de las 5 corridas con 16 procesos: 8.475128746032714
+
+
+
+Numero de procesos 32
+
+
+Tiempo de la corrida 1 : 5.160311460494995
+
+
+
+Tiempo de la corrida 2 : 5.922962665557861
+
+
+
+Tiempo de la corrida 3 : 5.928417921066284
+
+
+
+Tiempo de la corrida 4 : 5.907638788223267
+
+
+
+Tiempo de la corrida 5 : 5.883637428283691
+
+
+
+Promedio de las 5 corridas con 32 procesos: 5.76059365272522
+
